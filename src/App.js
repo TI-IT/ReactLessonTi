@@ -13,7 +13,7 @@ const App = () => {
       <Header />
       <Navbar />
       <Profile />
-      <div>666</div>
+      <div>777</div>
     </div>
   );
 }
