@@ -1,0 +1,18 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(144, 211, 231);
+}
+
+.nav .item a {
+  color: azure;
+}
+
+.nav img {
+margin: 0 auto;
+  width: 1200px;
+}
+
+
+.nav .activ a {
+  color: gold;
+}
