@@ -7,3 +7,8 @@
   grid-template-columns: 106px 10fr;
   grid-gap: 2px;
 }
+
+.app-wrapper-content {
+  grid-area: c;
+  background-color: rgb(136, 192, 194);
+}
