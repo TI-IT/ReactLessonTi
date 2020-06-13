@@ -2,7 +2,11 @@
 .item {
   color: rgb(221, 82, 18);
 }
-.posts {
-  background-color: rgb(30, 19, 70);
+.postsBlock {
+  background-color: rgb(85, 65, 156);
   color: aliceblue;
+}
+
+.posts {
+  margin-top: 10px;
 }
